@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisbradford2&theme=onedark" alt="chrisbradford2" /></a> </p>
 
-- 🔭 I’m currently working on **Galactic Pizza**
+- 🔭 I’m currently working on **Netflux, Patateman and La maison Jungle**
 
 - 🌱 I’m currently learning **PHP, Angular, Laravel and MySQL**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://blog.nicolas-barbarisi.com](https://blog.nicolas-barbarisi.com)
 
-- 💬 Ask me about **React.js, Sass and WordPress**
+- 💬 Ask me about **React.js, Sass and Drupal**
 
 - 📫 How to reach me **nico.bar2012@gmail.com**
 
