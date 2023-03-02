@@ -43,10 +43,8 @@ body:
     attributes:
       label: Screenshots
       description: Si vous avez des captures d'écran, veuillez les ajouter ici.
-      render: shell
   - type: textarea
     id: additional
     attributes:
       label: Informations supplémentaires
       description: Si vous avez des informations supplémentaires, veuillez les ajouter ici.
-      render: shell
