@@ -26,6 +26,15 @@ body:
       value: "Ajouter une nouvelle route [route] qui retourne [réponse] lorsque [condition]."
     validations:
       required: true
+  - type: input
+    id: time
+    attributes:
+      label: Temps de développement estimé
+      description: Temps de développement estimé pour cette fonctionnalité.
+      placeholder: "Écrivez le temps de développement estimé ici..."
+      value: "1h 30min"
+    validations:
+      required: true
   - type: textarea
     id: additionnal
     attributes:
@@ -38,13 +47,3 @@ body:
         - [ ] Je peux [action] depuis [endroit].
     validations:
       required: true
-  - type: input
-    id: assignees
-    attributes:
-      label: Assignees
-      description: Liste des personnes à assigner à cette fonctionnalité.
-      placeholder: "Écrivez les assignees ici..."
-      value: "julienmarc7"
-    validations:
-      required: true
-
