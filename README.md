@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisbradford2&theme=onedark" alt="chrisbradford2" /></a> </p>
 
-- 🔭 I’m currently working on **Netflux, Patateman and La maison Jungle**
+- 🔭 I’m currently working on **Kiwi Collective and My Job Book**
 
-- 🌱 I’m currently learning **PHP, Angular, Laravel and MySQL**
+- 🌱 I’m currently learning **AWS, Node.js and Go**
 
 - 👨‍💻 All of my projects are available at [https://nicolas-barbarisi.com](https://nicolas-barbarisi.com)
 
